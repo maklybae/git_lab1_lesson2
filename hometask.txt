@@ -3,3 +3,16 @@ Branch master:
 Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
 Branch demo:
 Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+
+Commits comments from Branch master:
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/boots_buttons'
+Add hometask.txt
